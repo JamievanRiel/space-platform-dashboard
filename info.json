@@ -1,0 +1,9 @@
+{
+  "name": "space-platform-dashboard",
+  "version": "1.0.0",
+  "title": "Space Platform Dashboard",
+  "author": "Jamie",
+  "description": "All your space platforms in one table: where they are, where they are going and when they arrive, hub health, cargo, missing construction materials and completed trips. Alerts when a platform is damaged, stalls without thrust, has no path or flies with empty turrets. Jump to a platform, pin it or pause it from the table.",
+  "factorio_version": "2.1",
+  "dependencies": ["base >= 2.1.15", "space-age >= 2.1.15"]
+}

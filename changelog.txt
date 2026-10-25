@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 23. 10. 2026
+  Features:
+    - Initial release.
+    - Dashboard with every space platform: location, route progress, speed and arrival time.
+    - Hub health and damaged tiles, cargo with the largest stacks, missing construction materials and trips.
+    - Alerts for damage, stalls (not enough thrust), no path and turrets without ammo while travelling.
+    - Show a platform, pin it, or pause and resume it from the table.
+    - Remote interface: get_platforms and open.
